@@ -7,3 +7,5 @@
 ## 博客
 [所谓博客](https://52shuzhai.com/), Hexo 实现
 
+## 书单
+[豆瓣](https://book.douban.com/people/sansanboy/)
