@@ -5,7 +5,8 @@
 [链接收录](https://sansanboy.notion.site/sansanboy/0521efd490ef4cb1a016a2701ead8f71), notion 实现
 
 ## 博客
-[所谓博客](https://52shuzhai.com/), Hexo 实现
+[blog1](https://blog.dajun.info/), Hexo 实现
 
+[blog2](https://dajun.info)
 ## 书单
 [豆瓣](https://book.douban.com/people/sansanboy/)
