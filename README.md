@@ -1,23 +1,9 @@
 <h1 align="center">Hi 👋, I'm JimYan</h1>
 <h3 align="center">/ Software Engineer / Data Expert / Blogger</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sansanboy&theme=onedark&row=1&column=6" alt="tikazyq" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <a href="https://github.com/sansanboy">
-    <img src="https://github-readme-stats.vercel.app/api?username=sansanboy&show_icons=true&theme=radical"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/sansanboy">
-    <img src="https://streak-stats.demolab.com/?user=sansanboy&theme=dark"/>
-  </a>
-</p>
 
 
 ## wiki
