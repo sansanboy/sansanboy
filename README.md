@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm JimYan</h1>
-<h3 align="center">/ Software Engineer / Data Expert / Blogger</h3>
-
-[![sansanboy](https://github-profile-trophy.vercel.app/?username=sansanboy)](https://github.com/sansanboy)
-
-
+<h3 align="center"> Software Engineer / Data Expert / Blogger</h3>
 
 
 ## wiki
@@ -16,5 +12,7 @@
 [blog1](https://blog.dajun.info/), Hexo 实现
 
 [blog2](https://dajun.info)
+
+[摄影作品集](https://photos.dajun.info/)
 ## 书单
 [豆瓣](https://book.douban.com/people/sansanboy/)
