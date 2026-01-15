@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JimYan</h1>
 <h3 align="center">/ Software Engineer / Data Expert / Blogger</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sansanboy)](https://github.com/sansanboy)
+[![sansanboy](https://github-profile-trophy.vercel.app/?username=sansanboy)](https://github.com/sansanboy)
 
 
 
